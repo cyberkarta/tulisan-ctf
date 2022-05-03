@@ -1,0 +1,10 @@
+# Exit Vim
+#easy #linux 
+
+Tantangan kali ini menguji user untuk penggunaan vi / vim. Flag akan keluar begitu user berhasil keluar dari vim.
+![](attachments/Pasted%20image%2020220501215303.png)
+
+
+## Solusi
+Gunakan `:q` untuk keluar dari vim
+![](attachments/Pasted%20image%2020220501215327.png)

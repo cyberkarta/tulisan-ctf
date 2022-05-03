@@ -1,0 +1,14 @@
+# Wizard
+
+Tantangan kali ini kita diminta menjawab 6 pertanyaan dari sang penyihir, berkaitan dengan konversi digit.
+![](attachments/Pasted%20image%2020220501224256.png)
+
+
+
+## Solusi
+Konversi:
+- Hex, Base64, Biner :https://gchq.github.io/
+- Octal -> Hex, Int -> Hex: https://www.rapidtables.com/convert/number/hex-dec-bin-converter.html
+- Big Endian -> Little Endian: https://www.save-editor.com/tools/wse_hex.html
+
+![](attachments/Pasted%20image%2020220502212740.png)
