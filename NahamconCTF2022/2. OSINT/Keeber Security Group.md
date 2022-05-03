@@ -1,4 +1,6 @@
 # Keeber Security Group
+#easy #medium #osint 
+
 Challenge ini terdiri dari beberapa pertanyaan mengenai OSINT pada keebersecuritygroup. Skill yang dibutuhkan:
 - Github info finding
 - Documentation research
@@ -161,3 +163,6 @@ Challenge Description: Despite all of the time we spend teaching people about ph
 ![](attachments/Pasted%20image%2020220503142211.png)
 - Flag bisa ditemukan pada url `Pastebin`
 ![](attachments/Pasted%20image%2020220503141824.png)
+
+## Source
+https://github.com/drewd314/Nahamcon-CTF-2022-Keeber-OSINT-Writeups
