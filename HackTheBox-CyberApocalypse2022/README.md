@@ -1,4 +1,4 @@
-# Cara Build Docker Image
+do# Cara Build Docker Image
 
 - Unzip file challenge pada masing-masing challenge.  
 ![](attachments/Pasted%20image%2020220604115812.png)
